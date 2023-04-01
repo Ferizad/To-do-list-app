@@ -60,15 +60,12 @@
 
 ### Key Features <a name="key-features"></a>
 
-> - **[Linters]**
-  > A linter is a tool that analyzes your source code to flag programming errors, bugs, stylistic errors, and suspicious constructs
-- **[.gitignore]**
-  > Specifies intentionally untracked files to ignore
-  **[Local Storage]**
+> **[Local Storage]**
   > A feature that allows you to store data on the client-side
   **[Modules]**
   > Modules can help keep code organized, improve maintainability, and reduce the likelihood of naming conflicts.
-
+  **[CRUD]**
+  > These are the basic operations used in databases and applications for managing data.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
