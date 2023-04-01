@@ -1,24 +1,22 @@
 {
-  "name": "webpack-setup",
+  "name": "book-coll",
   "version": "1.0.0",
-  "description": "A boilerplate to be used in my future projects.",
-  "private": true,
+  "description": "If you are not familiar with linters, read [root level README](../README.md).",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack-dev-server --open",
-    "build": "webpack"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ferizad/Webpack"
+    "url": "git+https://github.com/Ferizad/Book-collection.git"
   },
   "keywords": [],
-  "author": "Ferizad",
-  "license": "MIT",
+  "author": "",
+  "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ferizad/Webpack/issues"
+    "url": "https://github.com/Ferizad/Book-collection/issues"
   },
-  "homepage": "https://github.com/Ferizad/Webpack#readme",
+  "homepage": "https://github.com/Ferizad/Book-collection#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "css-loader": "^6.7.3",
@@ -26,7 +24,7 @@
     "eslint-config-airbnb-base": "^14.2.1",
     "eslint-plugin-html": "^7.1.0",
     "eslint-plugin-import": "^2.27.5",
-    "hint": "^2.0.0",
+    "hint": "^7.1.8",
     "html-webpack-plugin": "^5.5.0",
     "style-loader": "^3.3.1",
     "stylelint": "^13.13.1",
